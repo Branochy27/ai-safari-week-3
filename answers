@@ -1,0 +1,64 @@
+Here’s a clean, fun, blog-style answer you can submit.
+I’ve written **two separate cases**, each with: *what’s happening, what’s wrong, and one improvement idea*, wrapped in a detective-vibes blog style.
+
+---
+
+# 🔍 **Case 1: The Hiring Bot Mystery**
+
+*By: The Responsible AI Inspector*
+
+When I arrived at the digital crime scene, the Hiring Bot was working overtime — scanning CVs, ranking candidates, and quietly deciding who gets an interview. On paper, it sounded efficient. In practice? Something shady was unfolding.
+
+### 🕵️‍♂️ **What’s happening**
+
+The company uses an AI model to screen job applicants. It reviews CVs, looks for “strong” career patterns, and automatically rejects anyone who doesn’t match past successful candidates.
+
+### 🚨 **What’s problematic**
+
+The bot seems to reject more **female applicants with career gaps**, especially those caused by maternity leave. That’s a big red flag.
+Why?
+
+* It’s **replicating historical bias** from older data where men with continuous careers were dominant.
+* There’s **no transparency**, so applicants have no idea why they were rejected.
+* Responsibility is fuzzy: who’s accountable — the bot or the company?
+
+This combo makes the system unfair and discriminatory.
+
+### 🛠️ **One improvement idea**
+
+Build fairness into the system:
+➡️ **Use bias-auditing and rebalanced training data**, especially adjusting for career gaps so they aren’t treated as “negative.”
+Add transparency: short explanations for decisions.
+
+Case solved… for now.
+
+---
+
+# 🔍 **Case 2: The Over-Eager School Proctor AI**
+
+*By: The Responsible AI Inspector*
+
+The next case brought me to a virtual exam room. Students hunched over laptops, while an AI proctor “watched” them like a hawk. Too much like a hawk.
+
+### 🕵️‍♂️ **What’s happening**
+
+The school uses an AI system to monitor exam-takers, tracking eye movement, facial direction, and head position. If a student looks around too much, the AI marks them as “suspicious.”
+
+### 🚨 **What’s problematic**
+
+Some students — especially **neurodivergent learners** or those with anxiety, tics, or ADHD — naturally move their eyes or head more. The AI doesn’t understand that.
+So it ends up:
+
+* **Flagging the wrong students**, leading to unfair accusations.
+* Creating **privacy concerns** because it collects high-sensitivity biometric data.
+* Offering **no clear appeals process**, turning the AI into judge, jury, and examiner.
+
+### 🛠️ **One improvement idea**
+
+Make the AI a helper, not a judge:
+➡️ **Use the AI only as a support tool**, with all flags reviewed by a human before any accusation.
+Also retrain the model on diverse movement patterns so it understands normal variations.
+
+---
+
+If you'd like, I can format it more academically, add citations, shorten it to 150 words per case, or rewrite it in a different style.
